@@ -1,4 +1,4 @@
-# Penggunaan id untuk tiga kasus dan selebihnya
+# Penggunaan if untuk tiga kasus dan selebihnya
 #inputkan bilangan
 print('Masukkan koordinat!')
 x = int(input('Masukkan nilai x: '))
